@@ -18,6 +18,17 @@ For discussions or support go [here](https://forum.sector3studios.com/index.php?
 -   Add `-webHudUrl=https://fxuk.github.io/webhud/dist/` to the game launch arguments
 -   Start the game
 
+## CHANGES TO ORIGINAL BRANCH IN DIST
+
+My current changes include:
+Transparent Radar, with dark background and border removed.
+Radar shows more prominently when in proximity to another car.
+
+Relative hud shows relative time to cars ahead / behind, rather than distance.
+This is not relative time to 'leaderboard position' but to the actual vehicle
+Background colour of rows on relative hud change to blue/red depending if you are lapping or being lapped by the car infront/behind.
+
+
 ## Development
 
 -   Development requires node/npm
