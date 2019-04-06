@@ -15,7 +15,7 @@ For discussions or support go [here](https://forum.sector3studios.com/index.php?
 
 -   Extract [public/dash.zip](public/dash.zip)
 -   Run dash.exe
--   Add `-webdev -webHudUrl=https://sector3studios.github.io/webhud/dist/` to the game launch arguments
+-   Add `-webHudUrl=https://fxuk.github.io/webhud/dist/` to the game launch arguments
 -   Start the game
 
 ## Development
